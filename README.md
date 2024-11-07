@@ -11,4 +11,3 @@ AI-Powered Responses: Utilizes OpenAI's language model for accurate and context-
 
 Vector-Based Search: Embeds PDF contents into a vector space for fast and relevant retrieval.
 
-Multi-PDF Support: Load multiple PDF files to build a rich, searchable knowledge base.

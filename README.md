@@ -11,3 +11,12 @@ AI-Powered Responses: Utilizes OpenAI's language model for accurate and context-
 
 Vector-Based Search: Embeds PDF contents into a vector space for fast and relevant retrieval.
 
+**Technologies Used**
+
+Python: Core programming language.
+
+LangChain: For vector-based document indexing.
+
+OpenAI: Language model API for generating responses.
+
+PyMuPDF: PDF parsing and document loading.
